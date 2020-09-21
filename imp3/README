@@ -1,0 +1,6 @@
+To run program, run 
+$python3 main.py
+This will run all models i.e. Decision Tree, Random forrest with ntrees, random forrest with max features, random forrest with seeds, and Ada Boost
+Command line arguments were NOT implemented to run specific experiments. All experiments are run all at once
+The graphs are saved in png that follow the convention q[part #]_[letter].png
+e.g. q1_d.png
